@@ -1,0 +1,9 @@
+CH5:
+5-1 ~ 5-5 activation function介紹
+5-6 單層感知機
+5-7 多層感知機 以tensor實作
+5-8 ~ 5-9 多層感知機 以Dense簡化 w, b的設定
+5-10 多層感知機 以Sequentail 簡化全連接順序
+5-11 使用add加入隱藏層到Sequentail
+5-12 結合物件導向 將nn類別化
+5-13 梯度下降 參數優化 gradientTape
